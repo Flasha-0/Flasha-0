@@ -1,0 +1,107 @@
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#110D10"/>
+      <stop offset="100%" stop-color="#1A1018"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B1E47"/>
+      <stop offset="50%" stop-color="#C24F73"/>
+      <stop offset="100%" stop-color="#B8922A"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="430" rx="32" fill="url(#bg)"/>
+  <circle cx="180" cy="80" r="90" fill="#8B1E47" opacity="0.10" filter="url(#blur)"/>
+  <circle cx="1220" cy="360" r="100" fill="#B8922A" opacity="0.08" filter="url(#blur)"/>
+
+  <text x="700" y="58" text-anchor="middle" font-size="15" fill="#B8922A" font-family="'Courier New', monospace" letter-spacing="4">
+    THE PILLARS / CREATIVE DISCIPLINES
+  </text>
+  <line x1="490" y1="78" x2="910" y2="78" stroke="url(#accent)" stroke-width="2" opacity="0.4"/>
+
+  <!-- Card 1 -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="112" width="300" height="260" rx="26" fill="#171016" stroke="rgba(139,30,71,0.28)"/>
+    <rect x="50" y="112" width="300" height="4" rx="2" fill="#8B1E47"/>
+    <circle cx="98" cy="168" r="28" fill="rgba(139,30,71,0.16)" stroke="rgba(194,79,115,0.35)"/>
+    <text x="98" y="178" text-anchor="middle" font-size="28">🎥</text>
+    <text x="136" y="173" font-size="24" fill="#F2EAF0" font-family="Arial, Helvetica, sans-serif" font-weight="700">Cinematic Rage</text>
+    <text x="78" y="215" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">Editorial pacing • color shape • impact cuts</text>
+    <text x="78" y="242" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">motion rhythm • dramatic framing • visual pressure</text>
+
+    <rect x="78" y="290" width="92" height="28" rx="14" fill="#201219" stroke="rgba(139,30,71,0.30)"/>
+    <text x="124" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">EDITING</text>
+
+    <rect x="178" y="290" width="116" height="28" rx="14" fill="#201219" stroke="rgba(194,79,115,0.30)"/>
+    <text x="236" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">MOTION FLOW</text>
+
+    <text x="78" y="345" font-size="12" fill="#8A7280" font-family="'Courier New', monospace" letter-spacing="2">OUTPUT / HIGH-ENERGY VISUAL STORYTELLING</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g filter="url(#shadow)">
+    <rect x="380" y="112" width="300" height="260" rx="26" fill="#171016" stroke="rgba(184,146,42,0.24)"/>
+    <rect x="380" y="112" width="300" height="4" rx="2" fill="#B8922A"/>
+    <circle cx="428" cy="168" r="28" fill="rgba(184,146,42,0.12)" stroke="rgba(184,146,42,0.30)"/>
+    <text x="428" y="178" text-anchor="middle" font-size="28">🪟</text>
+    <text x="466" y="173" font-size="24" fill="#F2EAF0" font-family="Arial, Helvetica, sans-serif" font-weight="700">Glass Architecture</text>
+    <text x="408" y="215" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">brand language • interface composition • hierarchy</text>
+    <text x="408" y="242" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">luxury contrast • system balance • elegant detail</text>
+
+    <rect x="408" y="290" width="84" height="28" rx="14" fill="#201219" stroke="rgba(184,146,42,0.28)"/>
+    <text x="450" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">BRANDING</text>
+
+    <rect x="500" y="290" width="96" height="28" rx="14" fill="#201219" stroke="rgba(184,146,42,0.28)"/>
+    <text x="548" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">UI SYSTEMS</text>
+
+    <text x="408" y="345" font-size="12" fill="#8A7280" font-family="'Courier New', monospace" letter-spacing="2">OUTPUT / PREMIUM VISUAL STRUCTURE</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g filter="url(#shadow)">
+    <rect x="710" y="112" width="300" height="260" rx="26" fill="#171016" stroke="rgba(139,30,71,0.28)"/>
+    <rect x="710" y="112" width="300" height="4" rx="2" fill="#C24F73"/>
+    <circle cx="758" cy="168" r="28" fill="rgba(194,79,115,0.14)" stroke="rgba(194,79,115,0.35)"/>
+    <text x="758" y="178" text-anchor="middle" font-size="28">🗣️</text>
+    <text x="796" y="173" font-size="24" fill="#F2EAF0" font-family="Arial, Helvetica, sans-serif" font-weight="700">Angry Dubbing</text>
+    <text x="738" y="215" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">voice tone • Arabic dub energy • emotional hit</text>
+    <text x="738" y="242" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">aggressive timing • expressive delivery • texture</text>
+
+    <rect x="738" y="290" width="74" height="28" rx="14" fill="#201219" stroke="rgba(194,79,115,0.30)"/>
+    <text x="775" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">VOICE</text>
+
+    <rect x="820" y="290" width="96" height="28" rx="14" fill="#201219" stroke="rgba(194,79,115,0.30)"/>
+    <text x="868" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">SOUND HIT</text>
+
+    <text x="738" y="345" font-size="12" fill="#8A7280" font-family="'Courier New', monospace" letter-spacing="2">OUTPUT / VOICE WITH VOLTAGE</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g filter="url(#shadow)">
+    <rect x="1040" y="112" width="300" height="260" rx="26" fill="#171016" stroke="rgba(184,146,42,0.24)"/>
+    <rect x="1040" y="112" width="300" height="4" rx="2" fill="url(#accent)"/>
+    <circle cx="1088" cy="168" r="28" fill="rgba(184,146,42,0.12)" stroke="rgba(184,146,42,0.30)"/>
+    <text x="1088" y="178" text-anchor="middle" font-size="28">⌘</text>
+    <text x="1126" y="173" font-size="24" fill="#F2EAF0" font-family="Arial, Helvetica, sans-serif" font-weight="700">Vibe Coding</text>
+    <text x="1068" y="215" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">interactive layers • design systems • web theater</text>
+    <text x="1068" y="242" font-size="14" fill="#C4A8B8" font-family="Arial, Helvetica, sans-serif">structure • motion logic • identity-driven code</text>
+
+    <rect x="1068" y="290" width="82" height="28" rx="14" fill="#201219" stroke="rgba(184,146,42,0.28)"/>
+    <text x="1109" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">WEB UI</text>
+
+    <rect x="1158" y="290" width="92" height="28" rx="14" fill="#201219" stroke="rgba(184,146,42,0.28)"/>
+    <text x="1204" y="308" text-anchor="middle" font-size="11" fill="#F2EAF0" font-family="'Courier New', monospace">SYSTEM CORE</text>
+
+    <text x="1068" y="345" font-size="12" fill="#8A7280" font-family="'Courier New', monospace" letter-spacing="2">OUTPUT / INTERFACE AS IDENTITY</text>
+  </g>
+</svg>
