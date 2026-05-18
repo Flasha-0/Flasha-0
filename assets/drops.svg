@@ -12,9 +12,6 @@
       <stop offset="0%" stop-color="#947219"/>
       <stop offset="100%" stop-color="#B8922A"/>
     </linearGradient>
-    <filter id="dr-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
   </defs>
 
   <rect width="1400" height="360" rx="28" fill="url(#dr-bg)"/>
@@ -63,6 +60,8 @@
   <text x="531" y="241" fill="#9999FF" font-size="11" font-family="Consolas, Monaco, monospace">Premiere</text>
   <rect x="601" y="226" width="32" height="22" rx="6" fill="#9999FF" opacity="0.15"/>
   <text x="608" y="241" fill="#9999FF" font-size="11" font-family="Consolas, Monaco, monospace">AE</text>
+  <rect x="641" y="226" width="62" height="22" rx="6" fill="#00E5FF" opacity="0.15"/>
+  <text x="651" y="241" fill="#00E5FF" font-size="11" font-family="Consolas, Monaco, monospace">CapCut</text>
 
   <text x="521" y="278" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STATUS</text>
   <circle cx="527" cy="298" r="4" fill="#B8922A"/>
@@ -80,10 +79,10 @@
   <line x1="966" y1="188" x2="1324" y2="188" stroke="#2A1823" stroke-width="1"/>
 
   <text x="966" y="214" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STACK</text>
-  <rect x="966" y="226" width="52" height="22" rx="6" fill="#F24E1E" opacity="0.15"/>
-  <text x="976" y="241" fill="#F24E1E" font-size="11" font-family="Consolas, Monaco, monospace">Figma</text>
-  <rect x="1026" y="226" width="32" height="22" rx="6" fill="#31A8FF" opacity="0.15"/>
-  <text x="1033" y="241" fill="#31A8FF" font-size="11" font-family="Consolas, Monaco, monospace">PS</text>
+  <rect x="966" y="226" width="32" height="22" rx="6" fill="#31A8FF" opacity="0.15"/>
+  <text x="973" y="241" fill="#31A8FF" font-size="11" font-family="Consolas, Monaco, monospace">PS</text>
+  <rect x="1006" y="226" width="32" height="22" rx="6" fill="#FF9A00" opacity="0.15"/>
+  <text x="1015" y="241" fill="#FF9A00" font-size="11" font-family="Consolas, Monaco, monospace">Ai</text>
 
   <text x="966" y="278" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STATUS</text>
   <circle cx="972" cy="298" r="4" fill="#C24F73"/>
