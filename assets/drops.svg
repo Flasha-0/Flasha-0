@@ -1,0 +1,91 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dr-bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#110D10"/>
+      <stop offset="100%" stop-color="#1A1018"/>
+    </linearGradient>
+    <linearGradient id="dr-crimson" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B1E47"/>
+      <stop offset="100%" stop-color="#C24F73"/>
+    </linearGradient>
+    <linearGradient id="dr-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#947219"/>
+      <stop offset="100%" stop-color="#B8922A"/>
+    </linearGradient>
+    <filter id="dr-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="360" rx="28" fill="url(#dr-bg)"/>
+
+  <!-- Section Header -->
+  <line x1="60" y1="40" x2="320" y2="40" stroke="#8B1E47" stroke-width="1" opacity="0.4"/>
+  <text x="340" y="46" fill="#B8922A" font-size="14" font-family="Consolas, Monaco, monospace" letter-spacing="6">LATEST DROPS</text>
+  <line x1="560" y1="40" x2="1340" y2="40" stroke="#8B1E47" stroke-width="1" opacity="0.4"/>
+
+  <!-- Card 1 -->
+  <rect x="50" y="72" width="410" height="260" rx="20" fill="#140D12" stroke="#3A2431" stroke-width="1.2"/>
+  <rect x="50" y="72" width="410" height="6" rx="3" fill="url(#dr-crimson)"/>
+
+  <text x="76" y="118" font-size="38">🎴</text>
+  <text x="126" y="118" fill="#F2EAF0" font-size="20" font-weight="800" font-family="Arial, sans-serif">CRIMSON INK SYSTEM</text>
+  <text x="76" y="148" fill="#C4A8B8" font-size="13" font-family="Consolas, Monaco, monospace">The visual identity engine behind</text>
+  <text x="76" y="168" fill="#C4A8B8" font-size="13" font-family="Consolas, Monaco, monospace">everything you see.</text>
+
+  <line x1="76" y1="188" x2="434" y2="188" stroke="#2A1823" stroke-width="1"/>
+
+  <text x="76" y="214" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STACK</text>
+  <rect x="76" y="226" width="52" height="22" rx="6" fill="#E34F26" opacity="0.15"/>
+  <text x="88" y="241" fill="#E34F26" font-size="11" font-family="Consolas, Monaco, monospace">HTML</text>
+  <rect x="136" y="226" width="44" height="22" rx="6" fill="#1572B6" opacity="0.15"/>
+  <text x="146" y="241" fill="#1572B6" font-size="11" font-family="Consolas, Monaco, monospace">CSS</text>
+  <rect x="188" y="226" width="32" height="22" rx="6" fill="#F7DF1E" opacity="0.15"/>
+  <text x="194" y="241" fill="#F7DF1E" font-size="11" font-family="Consolas, Monaco, monospace">JS</text>
+
+  <text x="76" y="278" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STATUS</text>
+  <circle cx="82" cy="298" r="4" fill="#22C55E"/>
+  <text x="94" y="302" fill="#22C55E" font-size="12" font-family="Consolas, Monaco, monospace">LIVE · ACTIVE</text>
+
+  <!-- Card 2 -->
+  <rect x="495" y="72" width="410" height="260" rx="20" fill="#140D12" stroke="#3A2431" stroke-width="1.2"/>
+  <rect x="495" y="72" width="410" height="6" rx="3" fill="url(#dr-crimson)"/>
+
+  <text x="521" y="118" font-size="38">🎥</text>
+  <text x="571" y="118" fill="#F2EAF0" font-size="20" font-weight="800" font-family="Arial, sans-serif">CINEMATIC RAGE</text>
+  <text x="521" y="148" fill="#C4A8B8" font-size="13" font-family="Consolas, Monaco, monospace">Short-form visual violence.</text>
+  <text x="521" y="168" fill="#C4A8B8" font-size="13" font-family="Consolas, Monaco, monospace">Rage dubbing meets cinema.</text>
+
+  <line x1="521" y1="188" x2="879" y2="188" stroke="#2A1823" stroke-width="1"/>
+
+  <text x="521" y="214" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STACK</text>
+  <rect x="521" y="226" width="72" height="22" rx="6" fill="#9999FF" opacity="0.15"/>
+  <text x="531" y="241" fill="#9999FF" font-size="11" font-family="Consolas, Monaco, monospace">Premiere</text>
+  <rect x="601" y="226" width="32" height="22" rx="6" fill="#9999FF" opacity="0.15"/>
+  <text x="608" y="241" fill="#9999FF" font-size="11" font-family="Consolas, Monaco, monospace">AE</text>
+
+  <text x="521" y="278" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STATUS</text>
+  <circle cx="527" cy="298" r="4" fill="#B8922A"/>
+  <text x="539" y="302" fill="#B8922A" font-size="12" font-family="Consolas, Monaco, monospace">IN PRODUCTION</text>
+
+  <!-- Card 3 -->
+  <rect x="940" y="72" width="410" height="260" rx="20" fill="#140D12" stroke="#3A2431" stroke-width="1.2"/>
+  <rect x="940" y="72" width="410" height="6" rx="3" fill="url(#dr-gold)"/>
+
+  <text x="966" y="118" font-size="38">🪟</text>
+  <text x="1016" y="118" fill="#F2EAF0" font-size="20" font-weight="800" font-family="Arial, sans-serif">GLASS RITUALS</text>
+  <text x="966" y="148" fill="#C4A8B8" font-size="13" font-family="Consolas, Monaco, monospace">Dark luxury UI systems</text>
+  <text x="966" y="168" fill="#C4A8B8" font-size="13" font-family="Consolas, Monaco, monospace">and brand identities.</text>
+
+  <line x1="966" y1="188" x2="1324" y2="188" stroke="#2A1823" stroke-width="1"/>
+
+  <text x="966" y="214" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STACK</text>
+  <rect x="966" y="226" width="52" height="22" rx="6" fill="#F24E1E" opacity="0.15"/>
+  <text x="976" y="241" fill="#F24E1E" font-size="11" font-family="Consolas, Monaco, monospace">Figma</text>
+  <rect x="1026" y="226" width="32" height="22" rx="6" fill="#31A8FF" opacity="0.15"/>
+  <text x="1033" y="241" fill="#31A8FF" font-size="11" font-family="Consolas, Monaco, monospace">PS</text>
+
+  <text x="966" y="278" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="2">STATUS</text>
+  <circle cx="972" cy="298" r="4" fill="#C24F73"/>
+  <text x="984" y="302" fill="#C24F73" font-size="12" font-family="Consolas, Monaco, monospace">EVOLVING</text>
+</svg>
