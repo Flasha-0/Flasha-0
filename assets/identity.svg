@@ -13,6 +13,9 @@
       <feGaussianBlur stdDeviation="12" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <clipPath id="avatar-clip">
+      <circle cx="140" cy="140" r="52"/>
+    </clipPath>
   </defs>
 
   <rect width="1400" height="280" rx="28" fill="url(#id-bg)"/>
@@ -23,40 +26,37 @@
   <!-- Left Card -->
   <rect x="50" y="42" width="420" height="196" rx="18" fill="#140D12" stroke="#3A2431" stroke-width="1"/>
 
-  <!-- Avatar Circle -->
-  <circle cx="140" cy="140" r="52" fill="#1A1018" stroke="url(#id-accent)" stroke-width="3"/>
-  <text x="140" y="158" text-anchor="middle" font-size="48">🎴</text>
+  <!-- Avatar with image -->
+  <circle cx="140" cy="140" r="55" fill="#1A1018" stroke="url(#id-accent)" stroke-width="3"/>
+  <image href="https://raw.githubusercontent.com/Flasha-0/Flasha-0/main/assets/avatar.png"
+         x="88" y="88" width="104" height="104"
+         clip-path="url(#avatar-clip)"
+         preserveAspectRatio="xMidYMid slice"/>
 
   <!-- Name & Title -->
   <text x="220" y="108" fill="#F2EAF0" font-size="28" font-weight="900" font-family="Arial, sans-serif" letter-spacing="2">FLASHA</text>
   <text x="220" y="138" fill="#C24F73" font-size="14" font-family="Consolas, Monaco, monospace" letter-spacing="3">DIGITAL ARCHITECT</text>
 
-  <!-- Divider in card -->
   <line x1="220" y1="152" x2="440" y2="152" stroke="#3A2431" stroke-width="1"/>
 
-  <!-- Roles -->
   <text x="220" y="175" fill="#C4A8B8" font-size="12" font-family="Consolas, Monaco, monospace">Video Editor • Graphic Designer</text>
   <text x="220" y="195" fill="#C4A8B8" font-size="12" font-family="Consolas, Monaco, monospace">Angry Dubber • Vibe Coder</text>
 
-  <!-- Status Indicator -->
   <circle cx="220" cy="220" r="4" fill="#22C55E"/>
   <text x="232" y="224" fill="#8A7280" font-size="11" font-family="Consolas, Monaco, monospace">ONLINE · TRANSMITTING</text>
 
   <!-- Right Section — Quote -->
   <rect x="500" y="42" width="876" height="196" rx="18" fill="#0D090C" stroke="#2A1823" stroke-width="1"/>
 
-  <!-- Quote marks -->
   <text x="540" y="100" fill="#8B1E47" font-size="64" font-family="Georgia, serif" opacity="0.4">"</text>
 
   <text x="580" y="115" fill="#F2EAF0" font-size="22" font-family="Georgia, serif" font-style="italic">Art is not a gentle breeze.</text>
   <text x="580" y="150" fill="#F2EAF0" font-size="22" font-family="Georgia, serif" font-style="italic">It is controlled, beautiful,</text>
   <text x="580" y="185" fill="url(#id-accent)" font-size="22" font-family="Georgia, serif" font-style="italic" filter="url(#id-glow)">violent rebellion.</text>
 
-  <!-- Attribution -->
   <line x1="580" y1="210" x2="680" y2="210" stroke="#B8922A" stroke-width="1" opacity="0.5"/>
   <text x="580" y="228" fill="#B8922A" font-size="12" font-family="Consolas, Monaco, monospace" letter-spacing="2">— FLASHA, CRIMSON INK v8.0</text>
 
-  <!-- Corner Marks -->
   <g stroke="#B8922A" stroke-width="1" opacity="0.25">
     <path d="M38 34 L28 34 L28 44"/>
     <path d="M1362 34 L1372 34 L1372 44"/>
