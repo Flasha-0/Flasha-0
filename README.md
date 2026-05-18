@@ -1,90 +1,77 @@
 <p align="center">
-  <img src="./assets/banner-v6.svg" width="100%" alt="Flasha — Crimson Rage Protocol v6.0"/>
+  <img src="./assets/hero.svg" width="100%" alt="Flasha Hero"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CRIMSON%20RAGE-v6.0-%238B1E47?style=for-the-badge&logo=obsidian&logoColor=#F2EAF0&labelColor=110D10"/>
-  <img src="https://img.shields.io/badge/GLASS%20ARCHITECTURE-LIVE-%23B8922A?style=for-the-badge&logo=vercel&logoColor=110D10&labelColor=1A1018"/>
-  <img src="https://img.shields.io/badge/ANGRY%20DUBBING-ENABLED-%23C24F73?style=for-the-badge&logo=spotify&logoColor=white&labelColor=8B1E47"/>
+  <img src="https://komarev.com/ghpvc/?username=Flasha-0&style=for-the-badge&color=8B1E47&label=SIGNAL+VIEWS" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/Flasha-0?style=for-the-badge&color=B8922A&labelColor=110D10&logo=github&logoColor=F2EAF0&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/badge/CRIMSON%20INK-v7.0-C24F73?style=for-the-badge&labelColor=110D10" alt="Crimson Ink"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=26&pause=800&color=C24F73&center=true&vCenter=true&width=920&lines=Controlled+Rebellion;Digital+Alchemy+Since+2023;Cinematic+Rage+Architect;Art+is+just+beautiful+violence" alt="Typing"/>
-</p>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-TRANSMITTING%20LIVE-red?style=flat-square&logo=signal&logoColor=white&labelColor=8B1E47" alt="Status"/>
-  <img src="https://img.shields.io/badge/CURRENT%20RAGE-CINEMATIC%20VOID-%23B8922A?style=flat-square&logo=obsidian" alt="Current Rage"/>
-</div>
-
----
-
-### THE PILLARS OF RAGE
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🎥</h3>
-      <strong style="color:#C24F73;">CINEMATIC RAGE</strong><br>
-      <sub>Video Editing • Color Grading • Motion Design</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🪟</h3>
-      <strong style="color:#B8922A;">GLASS ARCHITECTURE</strong><br>
-      <sub>Branding • UI/UX • Visual Systems</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🗣️</h3>
-      <strong style="color:#8B1E47;">ANGRY DUBBING</strong><br>
-      <sub>Voice Over • Arabic Rage Dubs • Sound Design</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>⌘</h3>
-      <strong style="color:#E6C467;">VIBE CODING</strong><br>
-      <sub>Web Experiences • Design Systems • Digital Ritual</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### LIVE TRANSMISSION
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flasha-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=110D10&title_color=C24F73&text_color=F2EAF0&icon_color=B8922A&ring_color=8B1E47" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Flasha-0&theme=tokyonight&hide_border=true&background=110D10&stroke=B8922A&ring=C24F73&fire=C24F73&currStreakNum=F2EAF0&sideNums=F2EAF0&currStreakLabel=B8922A" height="165"/>
+  <a href="https://youtube.com/@flasha_0"><img src="https://img.shields.io/badge/YOUTUBE-PRODUCTION-FF0000?style=for-the-badge&labelColor=110D10&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/flasha_0/"><img src="https://img.shields.io/badge/INSTAGRAM-CONTENT-E1306C?style=for-the-badge&labelColor=110D10&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/1484153478421942335"><img src="https://img.shields.io/badge/DISCORD-HQ-5865F2?style=for-the-badge&labelColor=110D10&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flasha-0&bg_color=110D10&color=F2EAF0&line=C24F73&point=B8922A&area=true&area_color=8B1E47&hide_border=true" width="100%"/>
+  <img src="./assets/pillars.svg" width="100%" alt="Flasha Pillars"/>
 </p>
-
----
-
-> **"Art is not a gentle breeze.**  
-> **It is controlled, beautiful, violent rebellion."**
-
-<div align="center">
-  <i>— Flasha, Crimson Ink Protocol v6.0</i>
-</div>
-
----
-
-### THE ARCHIVE
 
 <p align="center">
-  <a href="https://youtube.com/@flasha_0"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/flasha_0/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://discord.com/users/1484153478421942335"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201019953525"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-  <a href="https://t.me/Flasha_0"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-  <a href="https://github.com/Flasha-0"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="./assets/terminal.svg" width="100%" alt="Flasha Terminal"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8B1E47&height=90&section=footer&text=Crafted%20in%20the%20Crimson%20Void%20%E2%9C%A6&fontSize=14&fontColor=F2EAF0&animation=fadeIn" width="100%"/>
-</div>
+## TRANSMISSION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flasha-0&show_icons=true&hide_border=true&bg_color=110D10&title_color=B8922A&text_color=F2EAF0&icon_color=8B1E47&ring_color=C24F73" height="170" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Flasha-0&hide_border=true&background=110D10&ring=C24F73&fire=C24F73&currStreakLabel=B8922A&sideLabels=C4A8B8&dates=8A7280&currStreakNum=F2EAF0&sideNums=F2EAF0" height="170" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flasha-0&layout=compact&hide_border=true&bg_color=110D10&title_color=B8922A&text_color=C4A8B8" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flasha-0&bg_color=110D10&color=C4A8B8&line=C24F73&point=B8922A&area=true&area_color=8B1E47&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+---
+
+## ARSENAL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+---
+
+## THE ARCHIVE
+
+<p align="center">
+  <a href="https://youtube.com/@flasha_0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/flasha_0/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/1484153478421942335"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201019953525"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://t.me/Flasha_0"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://github.com/Flasha-0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Flasha Footer"/>
+</p>
