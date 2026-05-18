@@ -9,10 +9,25 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@flasha_0"><img src="https://img.shields.io/badge/YOUTUBE-PRODUCTION-FF0000?style=for-the-badge&labelColor=110D10&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/flasha_0/"><img src="https://img.shields.io/badge/INSTAGRAM-CONTENT-E1306C?style=for-the-badge&labelColor=110D10&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://discord.com/users/1484153478421942335"><img src="https://img.shields.io/badge/DISCORD-HQ-5865F2?style=for-the-badge&labelColor=110D10&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://youtube.com/@flasha_0">
+    <img src="https://img.shields.io/badge/YOUTUBE-PRODUCTION-FF0000?style=for-the-badge&labelColor=110D10&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/flasha_0/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-CONTENT-E1306C?style=for-the-badge&labelColor=110D10&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com/users/1484153478421942335">
+    <img src="https://img.shields.io/badge/DISCORD-HQ-5865F2?style=for-the-badge&labelColor=110D10&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
+
+---
+
+## SIGNAL PROFILE
+
+**Flasha 🎴**  
+Video Editor • Graphic Designer • Angry Dubber • Vibe Coder
+
+> Digital alchemy through cinematic rage, glass architecture, and controlled rebellion.
 
 <p align="center">
   <img src="./assets/pillars.svg" width="100%" alt="Flasha Pillars"/>
