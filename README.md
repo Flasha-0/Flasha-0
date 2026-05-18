@@ -42,12 +42,12 @@ Video Editor • Graphic Designer • Angry Dubber • Vibe Coder
 ## TRANSMISSION MATRIX
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flasha-0&show_icons=true&hide_border=true&bg_color=110D10&title_color=B8922A&text_color=F2EAF0&icon_color=8B1E47&ring_color=C24F73" height="170" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Flasha-0&hide_border=true&background=110D10&ring=C24F73&fire=C24F73&currStreakLabel=B8922A&sideLabels=C4A8B8&dates=8A7280&currStreakNum=F2EAF0&sideNums=F2EAF0" height="170" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Flasha-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=110D10&title_color=B8922A&text_color=F2EAF0&icon_color=8B1E47&cache_seconds=1800&v=7" height="170" alt="Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Flasha-0&hide_border=true&background=110D10&ring=C24F73&fire=C24F73&currStreakLabel=B8922A&sideLabels=C4A8B8&dates=8A7280&currStreakNum=F2EAF0&sideNums=F2EAF0" height="170" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flasha-0&layout=compact&hide_border=true&bg_color=110D10&title_color=B8922A&text_color=C4A8B8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flasha-0&layout=compact&langs_count=8&hide_border=true&bg_color=110D10&title_color=B8922A&text_color=C4A8B8&cache_seconds=1800&v=7" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
