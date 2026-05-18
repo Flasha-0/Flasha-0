@@ -1,0 +1,39 @@
+<svg width="1400" height="120" viewBox="0 0 1400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fl-line" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#110D10"/>
+      <stop offset="20%" stop-color="#8B1E47"/>
+      <stop offset="50%" stop-color="#C24F73"/>
+      <stop offset="80%" stop-color="#B8922A"/>
+      <stop offset="100%" stop-color="#110D10"/>
+    </linearGradient>
+
+    <linearGradient id="fl-chip" x1="0" y1="0" x2="420" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1A1018"/>
+      <stop offset="100%" stop-color="#140D12"/>
+    </linearGradient>
+
+    <filter id="fl-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="120" rx="24" fill="#110D10"/>
+
+  <line x1="70" y1="60" x2="500" y2="60" stroke="url(#fl-line)" stroke-width="2" opacity="0.65"/>
+  <line x1="900" y1="60" x2="1330" y2="60" stroke="url(#fl-line)" stroke-width="2" opacity="0.65"/>
+
+  <rect x="500" y="28" width="400" height="64" rx="32" fill="url(#fl-chip)" stroke="#3A2431" stroke-width="1.2"/>
+
+  <text x="700" y="54" text-anchor="middle" fill="#F2EAF0" font-size="21" font-family="Arial, sans-serif" font-weight="700" filter="url(#fl-glow)">
+    CRAFTED BY FLASHA 🎴
+  </text>
+
+  <text x="700" y="76" text-anchor="middle" fill="#B8922A" font-size="11" font-family="Consolas, Monaco, monospace" letter-spacing="3">
+    CRIMSON INK · CONTROLLED REBELLION · PRO MAX
+  </text>
+</svg>
